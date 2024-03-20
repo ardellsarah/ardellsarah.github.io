@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sarah Ardell / Site Title"
+title                    : "Sarah Ardell"
 title_separator          : "-"
 name                     : &name "Sarah Ardell"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : "she/her" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Candidate in Ecology, Behavior and Evolution + Quantitative Biology. Specializes in computational, analytical, and statistical modelling of evolutionary dynamics with a focus on prediction. "
   location         : "San Diego, CA"
   employer         : "UC San Diego"
   uri              : # URL
@@ -32,10 +32,10 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=nVMxvSgAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : "https://orcid.org/0000-0001-6665-2739"
+  pubmed           : #
   researchgate     : # URL
 
   # Repositories and software development
