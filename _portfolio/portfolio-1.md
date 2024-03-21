@@ -1,5 +1,5 @@
 ---
-title: "Rshiny Application for exploring the pleiotropic outcomes of evolution"
+title: "Predicting pleiotropy"
 excerpt: "An Rshiny application for exploring the pleiotropic outcomes of evolution 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
