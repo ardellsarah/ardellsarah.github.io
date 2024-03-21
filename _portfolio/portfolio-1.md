@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Rshiny Application for exploring the pleiotropic outcomes of evolution"
+excerpt: "An Rshiny application for exploring the pleiotropic outcomes of evolution 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Inspired by my work in the first chapter of my thesis (published in eLife, 2021), I made this application as an interactive tool to help explore how the "Joint Distribution of Fitness Effects" (JDFE) determines the pleiotropic outcomes of evolution. Not sure what the JDFE or pleiotropy are? No problem! I've added a short primer on microbial evolution to the top of the app. I also recommend reading the [eLife digest](https://elifesciences.org/articles/73250) written about this work for a more detailed (but plain language) description of our findings. 
