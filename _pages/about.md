@@ -26,7 +26,7 @@ Sometimes, such as when designing a multi-antibiotic treatment regime, we would 
 
 Developing evolution-informed multi-antibiotic treatments
 ------
-In this computational and analytical project, I formalize the definition of the JDFE, produce analytical predictions of non-home fitness trajectories given a JDFE, and demonstrate the potential utility of the JDFE in developing multi-antibiotic treatments to best avoid the emergence of multi-drug resistance. Check out our [paper](https://elifesciences.org/articles/73250), published in eLife in 2021, as well as the [Rshiny application](https://github.com/ardellsarah/JDFE_Rshiny_App) I developed to interact with the results .
+In this computational and analytical project, I formalize the definition of the JDFE, produce analytical predictions of non-home fitness trajectories given a JDFE, and demonstrate the potential utility of the JDFE in developing multi-antibiotic treatments to best avoid the emergence of multi-drug resistance. Check out our [paper](https://elifesciences.org/articles/73250), published in eLife in 2021, as well as the [Rshiny application](https://smardell.shinyapps.io/rshiny_jdfe/) I developed to interact with the results .
 
 Predicting how the effects of mutations changes across strains and environments 
 ------
