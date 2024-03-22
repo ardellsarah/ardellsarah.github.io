@@ -5,7 +5,7 @@ permalink: /publication/eLife
 excerpt: 'A computational and analytical model to develop evolutionarily informed multi-antibiotic treatments.'
 date: 2021-12-06
 venue: 'eLife'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf](https://elifesciences.org/articles/73250)'
 citation: 'SM Ardell and S Kryazhimskiy. (2021). &quot;The population genetics of collateral resistance and sensitivity.&quot; <i>eLife</i>.'
 ---
 
