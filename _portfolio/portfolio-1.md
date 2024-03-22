@@ -8,4 +8,4 @@ Inspired by my work in the first chapter of my thesis (published in eLife, 2021)
 
 If the app does not properly load below, please check it by downloading [the repository on my github page](https://github.com/ardellsarah/JDFE_Rshiny_App). 
 
-<iframe src="https://smardell.shinyapps.io/rshiny_jdfe/" width="175%" height="600" frameborder="0"></iframe>
+<iframe src="https://smardell.shinyapps.io/rshiny_jdfe/" width="140%" height="600" frameborder="0"></iframe>
